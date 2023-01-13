@@ -8,3 +8,5 @@ The second program that is not actually part of a project is useful. It teaches 
 The third program introduces how to work with text and variables. This is useful because now we have learned different methods such as .Length, which calculates the character length of a string. Morever, it also teaches you about working with new lines. 
 
 The fourth program introduces functions and the different arguments that are needed for functions to run. This is extremely importan when invoking different APIs and understanding whatever arguments they need.
+
+The fifth program utilizes functions and command line arguments. The program enumerates current user access on a computer to files. Not only is this a useful program it also allows you to search for different files depending on the specified format. Its also pretty cool to see how the Directory.EnumerateFiles functions works and how you can let it take paremeters, and afterwards the other function File.Open will retrieve the files and check their access. 
